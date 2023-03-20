@@ -1,0 +1,2 @@
+name, sec_name, otch, dolg = input("enter name: "), input("enter sec_name: "), input("enter otch: "), input("enter dolg: ")
+print(f'{name[0].upper()}. {sec_name[0].upper()}. {otch.title()},{dolg.lower()}')
